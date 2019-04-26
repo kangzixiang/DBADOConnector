@@ -23,7 +23,7 @@ History
 // please add "c:\Program Files\common files\system\ado" to your VC++ IDE
 // menu "Tools"->"Options"->"Projects"->"VC++ Directories"->"Include Files"
 
-#ifndef _WIN64
+#ifdef _WIN64
 #import "c:\\Program Files\\Common Files\\System\\ado\\msado15.dll" no_namespace \
 rename("EOF","adoEOF") rename("DataTypeEnum","adoDataTypeEnum") \
 rename("FieldAttributeEnum", "adoFielAttributeEnum") rename("EditModeEnum", "adoEditModeEnum") \
