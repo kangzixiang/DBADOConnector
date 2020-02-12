@@ -7,6 +7,6 @@ This Repo is a SQL Server connector based on ADO
 
 
 ##  Join me
--- kangzixiang.foxmail.com
+-- kangzixiang@foxmail.com
 
 
